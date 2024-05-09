@@ -1,6 +1,10 @@
 # REFLECTION ADPRO
 ![first try - not](image.png)
 
+## Creativity
+![alt text](image-1.png)
+For avatar, I decided to use "https://api.dicebear.com/8.x/notionists-neutral/svg?seed={somethin}" because the one in the tutorial is not available.
+
 # YewChat 💬
 
 > Source code for [Let’s Build a Websocket Chat Project With Rust and Yew 0.19 🦀](https://fsjohnny.medium.com/lets-build-a-websockets-project-with-rust-and-yew-0-19-60720367399f)
